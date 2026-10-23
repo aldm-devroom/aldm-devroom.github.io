@@ -1,21 +1,15 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+baseurl:
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: "FOSDEM 2027 Devroom: Archives, Libraries, and Digital Memory"
+email: aldm_devroom@sent.com
+author: Organizers
+attribution: Software Heritage and collaborators
 
 lang: en
 
 plugins:
   - jekyll-seo-tag
 
-color: "#13ccf9"
-# disqus:
-#   shortname: example-com
-#
+color: "#ef4426"
 rrss:
-  email: "example@example.cl"
-  telegram: "https://t.me/"
-  discord: "https://discord.com/"
+  email: "aldm_devroom@sent.com"

@@ -4,12 +4,14 @@
   <div class="container mx-auto px-4">
     <div class="flex flex-wrap text-left lg:text-left">
       <div class="w-full lg:w-6/12 px-4">
-        <h4 class="text-3xl fonat-semibold">{{ site.data[site.lang].footer.title | default: "Let's keep in touch!" |
+        <h4 class="text-3xl fonat-semibold">{{ site.data[site.lang].footer.title | default: "Contact" |
           localize}}</h4>
-        <span class="text-lg dark:text-slate-300 my-4">
-          {{ site.data[site.lang].footer.description | default: "Find us on any of these platforms." }}
-        </span>
-        {% include social.html %}
+          {% include social.html %}
+
+      Location: Campus Solbosch of the Université Libre de Bruxelles (ULB), Brussels
+
+		<iframe width="600" height="250" src="https://www.openstreetmap.org/export/embed?bbox=4.371614456176759%2C50.81100594951269%2C4.388844966888429%2C50.81634098662432&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+		<small><a href="https://www.openstreetmap.org/#map=17/50.813674/4.380230">View Larger Map</a></small>
       </div>
       <div class="w-full lg:w-6/12 px-4">
         <div class="flex flex-wrap text-right mb-6">
@@ -32,8 +34,12 @@
     <div class="flex flex-wrap items-center md:justify-between justify-center">
       <div class="w-full md:w-4/12 px-4 mx-auto text-center">
         <div class="text-sm text-gray-500 font-semibold py-1">
-          Copyright © <span id="get-current-year">{{currentYear}}</span><a href="{{ site.url }}" class="text-gray-500 hover:text-gray-800
-            dark:text-slate-500 dark:hover:text-slate-200" target="_blank"> {{site.title}}
+          Copyright © <span id="get-current-year">{{currentYear}}</span><a href="{{ site.url }}/collaborators" class="text-gray-500 hover:text-gray-800
+            dark:text-slate-500 dark:hover:text-slate-200" target="_blank"> {{site.attribution}}</a>.
+            <br/>
+            Made with <a href="https://jekyllrb.com/" class="text-gray-500 hover:text-gray-800
+            dark:text-slate-500 dark:hover:text-slate-200">Jekyll</a>, <a href="https://github.com/a-chacon/wind" class="text-gray-500 hover:text-gray-800
+            dark:text-slate-500 dark:hover:text-slate-200">Wind</a>, and &#10084;.
         </div>
       </div>
     </div>
