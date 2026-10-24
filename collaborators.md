@@ -17,9 +17,9 @@ We are collaborating with the following archive initiatives for this Devroom.
 
 ## Review assistance
 
-### SciOp.net and Safeguar.de
+### [SciOp.net](https://sciop.net) and [Safeguar.de](https://safeguar.de/)
 
-[SciOp](https://sciop.net) is being developed by [Safeguarding Research & Culture (SRC)](https://safeguar.de/).
+SciOp is being developed by Safeguarding Research & Culture (SRC).
 
 ![SRC's logo: a batsignal for data needing rescue](/assets/images/logos/Safeguarding-Logo.svg){: .collaborator-logo }
  
@@ -34,6 +34,6 @@ all disappear.
 
 ![The word "ecosyste.ms" underlined and prefixed with colorful shapes](/assets/images/logos/ecosystems.svg){: .collaborator-logo }
 
-[ecosyte.ms](https://ecosyste.ms) has indexed over six billion events across nearly two thousand
+[ecosyste.ms](https://ecosyste.ms) has indexed over six billion events across nearly two thousand
 sources to create the world's most comprehensive and accurate dataset about
 open source production and use.
