@@ -17,13 +17,13 @@ We are collaborating with the following archive initiatives for this Devroom.
 
 ## Review assistance
 
-### SciOp and Safeguar.de
+### SciOp.net and Safeguar.de
 
-[SciOp](https://sciop.net) is part of [Safeguarding Research & Culture (SRC)](https://safeguar.de/).
+[SciOp](https://sciop.net) is being developed by [Safeguarding Research & Culture (SRC)](https://safeguar.de/).
 
 ![SRC's logo: a batsignal for data needing rescue](/assets/images/logos/Safeguarding-Logo.svg){: .collaborator-logo }
  
-As a website and a group of people, SciOp is dedicated to ensuring that our
+As a project and a community, SRC is dedicated to ensuring that our
 cultural, intellectual and scientific heritage exists in multiple copies, in
 multiple places, and that no single entity or group of entities can make it
 all disappear. 
