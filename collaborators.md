@@ -1,5 +1,6 @@
 ---
 title: Collaborators
+permalink: /collaborators/
 layout: page
 ---
 
