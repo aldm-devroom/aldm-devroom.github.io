@@ -14,4 +14,4 @@ Our collaborators also have codes of conduct:
 [ecosyste.ms](https://docs.ecosyste.ms/docs/contributing/conduct/).
 
 The [FOSDEM Code of Conduct](https://fosdem.org/2027/practical/conduct/) also
-applies.
+matters here.

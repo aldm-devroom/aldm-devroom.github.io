@@ -8,7 +8,7 @@ layout: page
 [Software Heritage](https://softwareheritage.org) is building the universal
 archive for software source code.
 
-![Software Heritage, the great library of source code.](/assets/images/logos/software-heritage-logo.svg){: .collaborator-logo }
+![SWH's logo with "Software Heritage, the great library of source code."](/assets/images/logos/software-heritage-logo.svg){: .collaborator-logo }
 
 We are collaborating with the following archive initiatives for this Devroom.
 
@@ -20,7 +20,7 @@ We are collaborating with the following archive initiatives for this Devroom.
 
 [SciOp](https://sciop.net) is part of [Safeguarding Research & Culture (SRC)](https://safeguar.de/).
 
-![Image](/assets/images/logos/Safeguarding-Logo.svg){: .collaborator-logo }
+![SRC's logo: a batsignal for data needing rescue](/assets/images/logos/Safeguarding-Logo.svg){: .collaborator-logo }
  
 As a website and a group of people, SciOp is dedicated to ensuring that our
 cultural, intellectual and scientific heritage exists in multiple copies, in
@@ -31,7 +31,7 @@ all disappear.
 
 ### ecosyste.ms
 
-![Image](/assets/images/logos/ecosystems.svg){: .collaborator-logo }
+![The word "ecosyste.ms" underlined and prefixed with colorful shapes](/assets/images/logos/ecosystems.svg){: .collaborator-logo }
 
 [ecosyte.ms](https://ecosyste.ms) has indexed over six billion events across nearly two thousand
 sources to create the world's most comprehensive and accurate dataset about
