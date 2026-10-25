@@ -13,3 +13,4 @@ plugins:
 color: "#ef4426"
 rrss:
   email: "aldm_devroom@sent.com"
+  mastodon: "https://fosstodon.org/@aldm_devroom"
